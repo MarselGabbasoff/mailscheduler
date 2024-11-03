@@ -1,6 +1,6 @@
 Установка и настройка
 1. Клонировать репозиторий
-
+git clone https://github.com/MarselGabbasoff/mailscheduler.git
 cd MailScheduler
 2. Скопируйте файл env.example в .env:
 Откройте .env и замените значения переменных на свои собственные
